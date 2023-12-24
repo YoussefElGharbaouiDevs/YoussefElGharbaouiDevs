@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack developement student, Laravel | React JS💻🕶, passionate about tech and willing to work for a big tech company.
+I'm a Full Stack software developer, currently working with .Net and Angular💻🕶, passionate about tech and willing to work for a big tech company.
 
 
 ## 🌐 Socials:
