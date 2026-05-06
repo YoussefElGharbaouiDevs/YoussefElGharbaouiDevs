@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer, currently working with .Net and Angular💻🕶, passionate about tech and willing to work for a big tech company.
+I'm a Software Engineer💻🕶, passionate about tech and willing to work for a big tech company.
 
 
 ## 🌐 Socials:
